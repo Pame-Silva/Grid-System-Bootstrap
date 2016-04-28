@@ -1,30 +1,50 @@
 /* HEADER */
-.lista li {
-   display: inline-table;
-   color: black;
-   margin-left: 10px;
-   margin-right: 10px;
-   padding-left: 10px;
-   margin-top: 60px;
+* {
+   font-family: Helvetica;
 }
 
+h1 {
+   font-family: Helvetica;
+   font-size: 50px;
+}
 
+.lista-enlaces li {
+   display: inline-block;
+   margin-left: 10px;
+   margin-right: 10px;
+   border-right: 1px solid black;
+   padding-left: 10px;
+   margin-top: 60px;
+   text-decoration: none;
+   list-style-type: none;
+}
 
 li a {
    color: gray;
-   font-size: 20px;
+   font-size: 15px;
    font-family: Arial;
-   text-decoration: none;
+   
 }
 /* FIN HEADER */
 
 
+/* MENÚ DE 6 PESTAÑA */
+.lista-menu li {
+   display: inline-block;
+   color: #3B7B33;
+   margin-left: 10px;
+   margin-right: 10px;
+   padding-left: 10px;
+   margin-top: 40px;
+   text-decoration: none;
+   list-style-type: none;
+}
 
-/* MENÚ */
-
-
-
-
-
-
+li a {
+   color: gray;
+   font-size: 15px;
+   font-family: Arial;
+   text-decoration: none;
+   list-style-type: none;
+}
 /* FIN MENÚ */
