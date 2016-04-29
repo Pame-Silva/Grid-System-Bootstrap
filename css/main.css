@@ -1,10 +1,6 @@
 /* HEADER */
-* {
-   font-family: Helvetica;
-}
-
 h1 {
-   font-family: Helvetica;
+   font-family: Titillium;
    font-size: 50px;
 }
 
@@ -29,6 +25,11 @@ li a {
 
 
 /* MENÚ DE 6 PESTAÑA */
+.menu  {
+   background-color: #27A7BE;
+
+}
+
 .lista-menu li {
    display: inline-block;
    color: #3B7B33;
@@ -48,3 +49,39 @@ li a {
    list-style-type: none;
 }
 /* FIN MENÚ */
+
+
+/*COMIENZO SECCION DEL MEDIO*/
+
+
+
+
+
+
+
+
+
+
+/*FIN SECCION DEL MEDIO*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*COMIENZO SECCION FOOTER*/
+
+
+
+
+
+
+
+
+/*FIN SECCION FOOTER*/
